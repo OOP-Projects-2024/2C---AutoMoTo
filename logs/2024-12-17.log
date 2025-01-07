@@ -1,0 +1,7 @@
+2024-12-17 09:58:13,POST,testthunder5,New parts was added to the inventory.
+2024-12-17 09:59:24,POST,testthunder5,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+2024-12-17 09:59:57,POST,testthunder5,New parts was added to the inventory.
+2024-12-17 10:00:36,POST,testthunder5,New parts was added to the inventory.
+2024-12-17 10:01:04,POST,testthunder5,New parts was added to the inventory.
+2024-12-17 17:44:05,POST,testthunder5,New parts was added to the inventory.
+2024-12-17 19:41:32,POST,testthunder5,New parts was added to the inventory.
